@@ -1,0 +1,30 @@
+segment_sources:
+  I66C89462:
+    type: origin_type
+    relation: translation
+    base: '1518'
+    lang: en
+  I8B48874F:
+    type: origin_type
+    relation: translation
+    base: E8EB
+    lang: bo
+segment_pairs:
+  24ea060fc9054279a5b823e181f150ac:
+    I66C89462: 12e8540e59ab4389a779adcc736a243a
+    I8B48874F: 5d133caab3bb442ba3978c06799fe911
+  adc916f1ac0246c2a1078e067862a98f:
+    I66C89462: 78566ad1c2774c419621c663b4d6a1f8
+    I8B48874F: c64a64dab33243569ebbeeda0b3e49bc
+  86e08593447c4b6b853b54312cd2babd:
+    I66C89462: fe0818135fae41538d119786bdc0088f
+    I8B48874F: 48ec228aecbc4d03b0044d856c629346
+  c1a9db32c70d449a8b32d0956d6dd2a5:
+    I66C89462: 1e0218a991464722b9e19e7432896fbb
+    I8B48874F: d3d82d76256b4b4180a718abab4fe356
+  af24d5a62ac843aab86ce79050b6353a:
+    I66C89462: 8861dd0550384e52be8c37cb586adb7c
+    I8B48874F: 54e66ccefe7b44138c32fc280deaf007
+  551bb5cd9d794c5faae7cb9cd684c3e0:
+    I66C89462: 1c13cabfd1ea48aaa31f1dc8cc8c24c4
+    I8B48874F: 959c970b1929452ea958371357762865

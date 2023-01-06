@@ -1,0 +1,19 @@
+id: A5F56CBE6
+title: A Prayer to Padmasambhava
+type: translation
+pechas:
+- I66C89462
+- I8B48874F
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:46:40.076689
+  last_modified_at: 2023-01-04 11:46:40.076699
+  collections:
+  - Dudjom Lingpa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I66C89462/1518: EBEA
+  I8B48874F/E8EB: EBEA
